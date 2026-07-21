@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/hitarth2211/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0503-next-greater-element-ii](https://github.com/hitarth2211/DSA/tree/master/0503-next-greater-element-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/hitarth2211/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0986-interval-list-intersections](https://github.com/hitarth2211/DSA/tree/master/0986-interval-list-intersections) |
 | [1260-shift-2d-grid](https://github.com/hitarth2211/DSA/tree/master/1260-shift-2d-grid) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/hitarth2211/DSA/tree/master/0503-next-greater-element-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/hitarth2211/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/hitarth2211/DSA/tree/master/0503-next-greater-element-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/hitarth2211/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Simulation
 |  |
