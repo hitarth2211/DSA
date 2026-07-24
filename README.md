@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/hitarth2211/DSA/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hitarth2211/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0503-next-greater-element-ii](https://github.com/hitarth2211/DSA/tree/master/0503-next-greater-element-ii) |
+| [0622-design-circular-queue](https://github.com/hitarth2211/DSA/tree/master/0622-design-circular-queue) |
 | [0973-k-closest-points-to-origin](https://github.com/hitarth2211/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0986-interval-list-intersections](https://github.com/hitarth2211/DSA/tree/master/0986-interval-list-intersections) |
 | [1260-shift-2d-grid](https://github.com/hitarth2211/DSA/tree/master/1260-shift-2d-grid) |
@@ -109,5 +110,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/hitarth2211/DSA/tree/master/0622-design-circular-queue) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/hitarth2211/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Linked List
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/hitarth2211/DSA/tree/master/0622-design-circular-queue) |
+## Design
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/hitarth2211/DSA/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
