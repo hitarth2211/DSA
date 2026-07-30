@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/hitarth2211/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/hitarth2211/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hitarth2211/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hitarth2211/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/hitarth2211/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/hitarth2211/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/hitarth2211/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/hitarth2211/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/hitarth2211/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hitarth2211/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/hitarth2211/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/hitarth2211/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/hitarth2211/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/hitarth2211/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hitarth2211/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Monotonic Stack
 |  |
 | ------- |
