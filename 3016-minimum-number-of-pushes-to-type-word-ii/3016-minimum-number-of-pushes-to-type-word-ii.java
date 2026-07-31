@@ -1,6 +1,6 @@
 class Solution {
     public int minimumPushes(String word) {
-        // my solution using PQ 
+        // my solution using PQ (TC:- O(n logn))
         
         // PriorityQueue<int[]> pq = new PriorityQueue<>(
         //     (a,b)->Integer.compare(b[1],a[1])
@@ -27,7 +27,7 @@ class Solution {
         // }
         // return res;
 
-        // solution using freq arr and sorting
+        // solution using freq arr and sorting(TC:- O(n))
         int[] freq = new int[26];
         for(int i = 0; i < word.length(); i++) {
             char ch = word.charAt(i);
