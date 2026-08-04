@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/hitarth2211/DSA/tree/master/0743-network-delay-time) |
 | [0973-k-closest-points-to-origin](https://github.com/hitarth2211/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hitarth2211/DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hitarth2211/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/hitarth2211/DSA/tree/master/0743-network-delay-time) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/hitarth2211/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hitarth2211/DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/hitarth2211/DSA/tree/master/1514-path-with-maximum-probability) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/hitarth2211/DSA/tree/master/0743-network-delay-time) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/hitarth2211/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hitarth2211/DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/hitarth2211/DSA/tree/master/1514-path-with-maximum-probability) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/hitarth2211/DSA/tree/master/0743-network-delay-time) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hitarth2211/DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1631-path-with-minimum-effort](https://github.com/hitarth2211/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/hitarth2211/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -200,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/hitarth2211/DSA/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/hitarth2211/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/hitarth2211/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Union-Find
@@ -231,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/hitarth2211/DSA/tree/master/1406-stone-game-iii) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/hitarth2211/DSA/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
