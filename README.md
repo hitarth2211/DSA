@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/hitarth2211/DSA/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/hitarth2211/DSA/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hitarth2211/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0769-max-chunks-to-make-sorted](https://github.com/hitarth2211/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 | [0877-stone-game](https://github.com/hitarth2211/DSA/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/hitarth2211/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0986-interval-list-intersections](https://github.com/hitarth2211/DSA/tree/master/0986-interval-list-intersections) |
@@ -85,11 +86,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/hitarth2211/DSA/tree/master/0071-simplify-path) |
 | [0316-remove-duplicate-letters](https://github.com/hitarth2211/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0503-next-greater-element-ii](https://github.com/hitarth2211/DSA/tree/master/0503-next-greater-element-ii) |
+| [0769-max-chunks-to-make-sorted](https://github.com/hitarth2211/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/hitarth2211/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/hitarth2211/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0769-max-chunks-to-make-sorted](https://github.com/hitarth2211/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/hitarth2211/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hitarth2211/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hitarth2211/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/hitarth2211/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0503-next-greater-element-ii](https://github.com/hitarth2211/DSA/tree/master/0503-next-greater-element-ii) |
+| [0769-max-chunks-to-make-sorted](https://github.com/hitarth2211/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/hitarth2211/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Simulation
 |  |
@@ -113,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/hitarth2211/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0769-max-chunks-to-make-sorted](https://github.com/hitarth2211/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 | [0973-k-closest-points-to-origin](https://github.com/hitarth2211/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hitarth2211/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hitarth2211/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
