@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/hitarth2211/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hitarth2211/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/hitarth2211/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hitarth2211/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/hitarth2211/DSA/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/hitarth2211/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/hitarth2211/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/hitarth2211/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 | [0973-k-closest-points-to-origin](https://github.com/hitarth2211/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hitarth2211/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hitarth2211/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hitarth2211/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/hitarth2211/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/hitarth2211/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hitarth2211/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hitarth2211/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/hitarth2211/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/hitarth2211/DSA/tree/master/3731-find-missing-elements) |
