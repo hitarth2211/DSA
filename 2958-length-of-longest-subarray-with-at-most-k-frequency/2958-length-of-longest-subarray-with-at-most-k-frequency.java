@@ -10,7 +10,7 @@ class Solution {
             while(map.containsKey(x) && map.get(x) > k) {
                 int ele = nums[left];
                 map.put(ele, map.get(ele) - 1);
-                if(map.get(ele) == 0) map.remove(ele);
+                // if(map.get(ele) == 0) map.remove(ele);
                 left++;
             }
             res = Math.max(res, i - left + 1);
