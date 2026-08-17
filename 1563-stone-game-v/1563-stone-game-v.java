@@ -8,8 +8,8 @@ class Solution {
         }
         int max = 0;
         for(int i = left; i < right; i++) {
-            int leftSum = prefix[i + 1] - prefix[left];
-            int rightSum = prefix[right + 1] - prefix[i + 1];
+            int leftSum = prefix[i] - ((left > 0) ? prefix[left - 1] : 0);
+            int rightSum = prefix[right] - prefix[i];
             if(leftSum < rightSum) {
                 max = Math.max(max, leftSum + solve(stoneValue, left, i));
             }
@@ -27,10 +27,10 @@ class Solution {
     } 
     public int stoneGameV(int[] stoneValue) {
         int n = stoneValue.length;
-        prefix = new int[n + 1];
+        prefix = new int[n];
         prefix[0] = stoneValue[0];
-        for(int i = 0; i < n; i++) {
-            prefix[i + 1] = prefix[i] + stoneValue[i];
+        for(int i = 1; i < n; i++) {
+            prefix[i] = prefix[i - 1] + stoneValue[i];
         } 
         memo = new int[n][n];
         for(int[] row : memo) Arrays.fill(row, -1);
