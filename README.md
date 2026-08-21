@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/hitarth2211/DSA/tree/master/0047-permutations-ii) |
 | [0216-combination-sum-iii](https://github.com/hitarth2211/DSA/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hitarth2211/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0486-predict-the-winner](https://github.com/hitarth2211/DSA/tree/master/0486-predict-the-winner) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/hitarth2211/DSA/tree/master/0047-permutations-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hitarth2211/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0769-max-chunks-to-make-sorted](https://github.com/hitarth2211/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 | [0973-k-closest-points-to-origin](https://github.com/hitarth2211/DSA/tree/master/0973-k-closest-points-to-origin) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/hitarth2211/DSA/tree/master/0047-permutations-ii) |
 | [0216-combination-sum-iii](https://github.com/hitarth2211/DSA/tree/master/0216-combination-sum-iii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hitarth2211/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
