@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/hitarth2211/DSA/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hitarth2211/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0769-max-chunks-to-make-sorted](https://github.com/hitarth2211/DSA/tree/master/0769-max-chunks-to-make-sorted) |
+| [0861-score-after-flipping-matrix](https://github.com/hitarth2211/DSA/tree/master/0861-score-after-flipping-matrix) |
 | [0877-stone-game](https://github.com/hitarth2211/DSA/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/hitarth2211/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0986-interval-list-intersections](https://github.com/hitarth2211/DSA/tree/master/0986-interval-list-intersections) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/hitarth2211/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0861-score-after-flipping-matrix](https://github.com/hitarth2211/DSA/tree/master/0861-score-after-flipping-matrix) |
 | [1260-shift-2d-grid](https://github.com/hitarth2211/DSA/tree/master/1260-shift-2d-grid) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hitarth2211/DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1631-path-with-minimum-effort](https://github.com/hitarth2211/DSA/tree/master/1631-path-with-minimum-effort) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/hitarth2211/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0769-max-chunks-to-make-sorted](https://github.com/hitarth2211/DSA/tree/master/0769-max-chunks-to-make-sorted) |
+| [0861-score-after-flipping-matrix](https://github.com/hitarth2211/DSA/tree/master/0861-score-after-flipping-matrix) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/hitarth2211/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/hitarth2211/DSA/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/hitarth2211/DSA/tree/master/2029-stone-game-ix) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0861-score-after-flipping-matrix](https://github.com/hitarth2211/DSA/tree/master/0861-score-after-flipping-matrix) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/hitarth2211/DSA/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1386-cinema-seat-allocation](https://github.com/hitarth2211/DSA/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/hitarth2211/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
