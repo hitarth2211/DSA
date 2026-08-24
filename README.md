@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/hitarth2211/DSA/tree/master/1563-stone-game-v) |
 | [1631-path-with-minimum-effort](https://github.com/hitarth2211/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/hitarth2211/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1872-stone-game-viii](https://github.com/hitarth2211/DSA/tree/master/1872-stone-game-viii) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/hitarth2211/DSA/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hitarth2211/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/hitarth2211/DSA/tree/master/2029-stone-game-ix) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/hitarth2211/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/hitarth2211/DSA/tree/master/1563-stone-game-v) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/hitarth2211/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1872-stone-game-viii](https://github.com/hitarth2211/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/hitarth2211/DSA/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hitarth2211/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/hitarth2211/DSA/tree/master/2029-stone-game-ix) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/hitarth2211/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/hitarth2211/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/hitarth2211/DSA/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/hitarth2211/DSA/tree/master/1872-stone-game-viii) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/hitarth2211/DSA/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hitarth2211/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Graph Theory
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/hitarth2211/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/hitarth2211/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/hitarth2211/DSA/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/hitarth2211/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/hitarth2211/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/hitarth2211/DSA/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -323,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/hitarth2211/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/hitarth2211/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/hitarth2211/DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/hitarth2211/DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/hitarth2211/DSA/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -330,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/hitarth2211/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/hitarth2211/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/hitarth2211/DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/hitarth2211/DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/hitarth2211/DSA/tree/master/2029-stone-game-ix) |
 ## Dijkstra's Algorithm
 |  |
@@ -340,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/hitarth2211/DSA/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/hitarth2211/DSA/tree/master/1872-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |
