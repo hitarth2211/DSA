@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hitarth2211/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/hitarth2211/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/hitarth2211/DSA/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/hitarth2211/DSA/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/hitarth2211/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/hitarth2211/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/hitarth2211/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hitarth2211/DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1631-path-with-minimum-effort](https://github.com/hitarth2211/DSA/tree/master/1631-path-with-minimum-effort) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/hitarth2211/DSA/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/hitarth2211/DSA/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 ## String
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/hitarth2211/DSA/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/hitarth2211/DSA/tree/master/1631-path-with-minimum-effort) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/hitarth2211/DSA/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/hitarth2211/DSA/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 ## Quickselect
 |  |
 | ------- |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/hitarth2211/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3310-remove-methods-from-project](https://github.com/hitarth2211/DSA/tree/master/3310-remove-methods-from-project) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/hitarth2211/DSA/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/hitarth2211/DSA/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -264,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/hitarth2211/DSA/tree/master/1514-path-with-maximum-probability) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/hitarth2211/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/hitarth2211/DSA/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/hitarth2211/DSA/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
