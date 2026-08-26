@@ -19,6 +19,7 @@ class Solution {
             int time = arr[2];
             int cost = arr[3];
             int parity = (cost == 1) ? 0 : 1;
+            if(r == m - 1 && c == n - 1) break;
             if(time > dist[r][c][parity]) continue;
             for(int[] dir: dirs) {
                 int nr = r + dir[0];
