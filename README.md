@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/hitarth2211/DSA/tree/master/0071-simplify-path) |
+| [0115-distinct-subsequences](https://github.com/hitarth2211/DSA/tree/master/0115-distinct-subsequences) |
 | [0316-remove-duplicate-letters](https://github.com/hitarth2211/DSA/tree/master/0316-remove-duplicate-letters) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/hitarth2211/DSA/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/hitarth2211/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/hitarth2211/DSA/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/hitarth2211/DSA/tree/master/0486-predict-the-winner) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hitarth2211/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/hitarth2211/DSA/tree/master/0877-stone-game) |
