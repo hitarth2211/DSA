@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/hitarth2211/DSA/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/hitarth2211/DSA/tree/master/0051-n-queens) |
 | [0216-combination-sum-iii](https://github.com/hitarth2211/DSA/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hitarth2211/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0486-predict-the-winner](https://github.com/hitarth2211/DSA/tree/master/0486-predict-the-winner) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/hitarth2211/DSA/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/hitarth2211/DSA/tree/master/0051-n-queens) |
 | [0216-combination-sum-iii](https://github.com/hitarth2211/DSA/tree/master/0216-combination-sum-iii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hitarth2211/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
@@ -406,4 +408,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/hitarth2211/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/hitarth2211/DSA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
