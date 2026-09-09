@@ -1,12 +1,15 @@
 class Solution {
     int res = 0;
     private boolean isValid(int row, int col, char[][] board) {
+        //check upwards
         for(int i = row; i >= 0; i--) {
             if(board[i][col] == 'Q') return false;
         }
+        // checks diagonally upward right
         for(int i = row, j = col; i >= 0 && j < board.length; i--, j++) {
             if(board[i][j] == 'Q') return false;
         }
+        // checks diagonally upward left
         for(int i = row, j = col; i >= 0 && j >= 0; i--, j--) {
             if(board[i][j] == 'Q') return false;
         }
