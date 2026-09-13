@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/hitarth2211/DSA/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hitarth2211/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0769-max-chunks-to-make-sorted](https://github.com/hitarth2211/DSA/tree/master/0769-max-chunks-to-make-sorted) |
+| [0835-image-overlap](https://github.com/hitarth2211/DSA/tree/master/0835-image-overlap) |
 | [0861-score-after-flipping-matrix](https://github.com/hitarth2211/DSA/tree/master/0861-score-after-flipping-matrix) |
 | [0877-stone-game](https://github.com/hitarth2211/DSA/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/hitarth2211/DSA/tree/master/0973-k-closest-points-to-origin) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/hitarth2211/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/hitarth2211/DSA/tree/master/0289-game-of-life) |
+| [0835-image-overlap](https://github.com/hitarth2211/DSA/tree/master/0835-image-overlap) |
 | [0861-score-after-flipping-matrix](https://github.com/hitarth2211/DSA/tree/master/0861-score-after-flipping-matrix) |
 | [1260-shift-2d-grid](https://github.com/hitarth2211/DSA/tree/master/1260-shift-2d-grid) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hitarth2211/DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
