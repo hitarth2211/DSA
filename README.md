@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/hitarth2211/DSA/tree/master/0835-image-overlap) |
 | [0861-score-after-flipping-matrix](https://github.com/hitarth2211/DSA/tree/master/0861-score-after-flipping-matrix) |
 | [0877-stone-game](https://github.com/hitarth2211/DSA/tree/master/0877-stone-game) |
+| [0962-maximum-width-ramp](https://github.com/hitarth2211/DSA/tree/master/0962-maximum-width-ramp) |
 | [0973-k-closest-points-to-origin](https://github.com/hitarth2211/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0986-interval-list-intersections](https://github.com/hitarth2211/DSA/tree/master/0986-interval-list-intersections) |
 | [1140-stone-game-ii](https://github.com/hitarth2211/DSA/tree/master/1140-stone-game-ii) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/hitarth2211/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0503-next-greater-element-ii](https://github.com/hitarth2211/DSA/tree/master/0503-next-greater-element-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/hitarth2211/DSA/tree/master/0769-max-chunks-to-make-sorted) |
+| [0962-maximum-width-ramp](https://github.com/hitarth2211/DSA/tree/master/0962-maximum-width-ramp) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/hitarth2211/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/hitarth2211/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0503-next-greater-element-ii](https://github.com/hitarth2211/DSA/tree/master/0503-next-greater-element-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/hitarth2211/DSA/tree/master/0769-max-chunks-to-make-sorted) |
+| [0962-maximum-width-ramp](https://github.com/hitarth2211/DSA/tree/master/0962-maximum-width-ramp) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/hitarth2211/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Simulation
 |  |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/hitarth2211/DSA/tree/master/0075-sort-colors) |
+| [0962-maximum-width-ramp](https://github.com/hitarth2211/DSA/tree/master/0962-maximum-width-ramp) |
 | [0986-interval-list-intersections](https://github.com/hitarth2211/DSA/tree/master/0986-interval-list-intersections) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hitarth2211/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sweep Line
