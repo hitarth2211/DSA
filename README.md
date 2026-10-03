@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/hitarth2211/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/hitarth2211/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/hitarth2211/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/hitarth2211/DSA/tree/master/0071-simplify-path) |
 | [0115-distinct-subsequences](https://github.com/hitarth2211/DSA/tree/master/0115-distinct-subsequences) |
 | [0316-remove-duplicate-letters](https://github.com/hitarth2211/DSA/tree/master/0316-remove-duplicate-letters) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hitarth2211/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/hitarth2211/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/hitarth2211/DSA/tree/master/0071-simplify-path) |
 | [0316-remove-duplicate-letters](https://github.com/hitarth2211/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0503-next-greater-element-ii](https://github.com/hitarth2211/DSA/tree/master/0503-next-greater-element-ii) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/hitarth2211/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/hitarth2211/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/hitarth2211/DSA/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/hitarth2211/DSA/tree/master/0486-predict-the-winner) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hitarth2211/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -530,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/hitarth2211/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/hitarth2211/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/hitarth2211/DSA/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/hitarth2211/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/hitarth2211/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hitarth2211/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
