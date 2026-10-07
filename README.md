@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/hitarth2211/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/hitarth2211/DSA/tree/master/0071-simplify-path) |
 | [0115-distinct-subsequences](https://github.com/hitarth2211/DSA/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/hitarth2211/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/hitarth2211/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/hitarth2211/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/hitarth2211/DSA/tree/master/0856-score-of-parentheses) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/hitarth2211/DSA/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/hitarth2211/DSA/tree/master/0052-n-queens-ii) |
 | [0216-combination-sum-iii](https://github.com/hitarth2211/DSA/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/hitarth2211/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/hitarth2211/DSA/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hitarth2211/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/hitarth2211/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0547-number-of-provinces](https://github.com/hitarth2211/DSA/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/hitarth2211/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hitarth2211/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
