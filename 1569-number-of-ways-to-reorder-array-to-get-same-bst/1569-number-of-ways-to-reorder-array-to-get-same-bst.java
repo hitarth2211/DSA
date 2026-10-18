@@ -28,6 +28,6 @@ class Solution {
         }
         List<Integer> list = new ArrayList<>();
         for(int x: nums) list.add(x);
-        return (int)((solve(list) - 1) % mod);    
+        return (int)((solve(list) - 1 + mod) % mod);    
     }
 }
