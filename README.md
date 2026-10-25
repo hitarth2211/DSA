@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/hitarth2211/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0986-interval-list-intersections](https://github.com/hitarth2211/DSA/tree/master/0986-interval-list-intersections) |
 | [1140-stone-game-ii](https://github.com/hitarth2211/DSA/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/hitarth2211/DSA/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/hitarth2211/DSA/tree/master/1260-shift-2d-grid) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hitarth2211/DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1386-cinema-seat-allocation](https://github.com/hitarth2211/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/hitarth2211/DSA/tree/master/0289-game-of-life) |
 | [0835-image-overlap](https://github.com/hitarth2211/DSA/tree/master/0835-image-overlap) |
 | [0861-score-after-flipping-matrix](https://github.com/hitarth2211/DSA/tree/master/0861-score-after-flipping-matrix) |
+| [1254-number-of-closed-islands](https://github.com/hitarth2211/DSA/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/hitarth2211/DSA/tree/master/1260-shift-2d-grid) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hitarth2211/DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1631-path-with-minimum-effort](https://github.com/hitarth2211/DSA/tree/master/1631-path-with-minimum-effort) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/hitarth2211/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hitarth2211/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1096-brace-expansion-ii](https://github.com/hitarth2211/DSA/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/hitarth2211/DSA/tree/master/1254-number-of-closed-islands) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hitarth2211/DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1631-path-with-minimum-effort](https://github.com/hitarth2211/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/hitarth2211/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -444,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/hitarth2211/DSA/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/hitarth2211/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hitarth2211/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1254-number-of-closed-islands](https://github.com/hitarth2211/DSA/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/hitarth2211/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/hitarth2211/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/hitarth2211/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -453,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/hitarth2211/DSA/tree/master/0547-number-of-provinces) |
+| [1254-number-of-closed-islands](https://github.com/hitarth2211/DSA/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/hitarth2211/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/hitarth2211/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/hitarth2211/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
