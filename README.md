@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/hitarth2211/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/hitarth2211/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/hitarth2211/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hitarth2211/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/hitarth2211/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/hitarth2211/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/hitarth2211/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/hitarth2211/DSA/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/hitarth2211/DSA/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/hitarth2211/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hitarth2211/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2368-reachable-nodes-with-restrictions](https://github.com/hitarth2211/DSA/tree/master/2368-reachable-nodes-with-restrictions) |
 | [3310-remove-methods-from-project](https://github.com/hitarth2211/DSA/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/hitarth2211/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hitarth2211/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Counting Sort
 |  |
 | ------- |
@@ -453,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/hitarth2211/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/hitarth2211/DSA/tree/master/2368-reachable-nodes-with-restrictions) |
 | [3310-remove-methods-from-project](https://github.com/hitarth2211/DSA/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hitarth2211/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
@@ -463,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/hitarth2211/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/hitarth2211/DSA/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/hitarth2211/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hitarth2211/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
