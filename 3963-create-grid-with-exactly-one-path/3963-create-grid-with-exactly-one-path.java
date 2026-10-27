@@ -8,7 +8,8 @@ class Solution {
         
         res[0] = top.toString();
         left.append('.');
-        for(int i = 1; i < m; i++) res[i] = left.toString();
+        String row = left.toString();
+        for(int i = 1; i < m; i++) res[i] = row;
         
         return res;
     }
