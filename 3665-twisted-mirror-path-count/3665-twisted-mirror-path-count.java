@@ -1,6 +1,5 @@
 class Solution {
     int m, n;
-    int res;
     int[][][] memo;
     int mod = 1000000007;
     private int dfs(int[][] grid, int i, int j, int last) {
@@ -27,7 +26,6 @@ class Solution {
         return memo[i][j][last] = res % mod;
     }
     public int uniquePaths(int[][] grid) {
-        res = 0;
         m = grid.length; n = grid[0].length;
         memo = new int[m][n][3];
         for(int i = 0; i < m; i++) {
