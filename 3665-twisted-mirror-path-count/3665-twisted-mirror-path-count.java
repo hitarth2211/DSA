@@ -35,6 +35,6 @@ class Solution {
                 Arrays.fill(memo[i][j], -1);
             }
         }
-        return dfs(grid, 0, 0, 0);
+        return dfs(grid, 0, 0, 0) % mod;
     }
 }
