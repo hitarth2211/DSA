@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/hitarth2211/DSA/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hitarth2211/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/hitarth2211/DSA/tree/master/0289-game-of-life) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/hitarth2211/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/hitarth2211/DSA/tree/master/0486-predict-the-winner) |
 | [0503-next-greater-element-ii](https://github.com/hitarth2211/DSA/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/hitarth2211/DSA/tree/master/0622-design-circular-queue) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/hitarth2211/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/hitarth2211/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hitarth2211/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/hitarth2211/DSA/tree/master/0836-rectangle-overlap) |
