@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/hitarth2211/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hitarth2211/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/hitarth2211/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/hitarth2211/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/hitarth2211/DSA/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/hitarth2211/DSA/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/hitarth2211/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
